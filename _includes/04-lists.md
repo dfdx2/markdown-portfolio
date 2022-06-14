@@ -1,1 +1,5 @@
-Replace this with a list of your favorite things.
+Some of the languages I know how to use are:
+* Java
+* Python
+* JavaScript
+* SQL
