@@ -2,9 +2,9 @@ Some of the languages I use are:
 * Proficient in Java
 * Proficient in Python
 * Learning Rust
-* Learning Go
-* Learning Kotlin
-* Beginner in JavaScript
 * Learning SQL
+* Learning Kotlin
+* Learning GO
+* Proficient in JavaScript
 * Proficient in HTML
-* Leanring CSS
+* Learning CSS
