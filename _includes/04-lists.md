@@ -1,8 +1,8 @@
 Some of the languages I use are:
 * Proficient in Java
 * Proficient in Python
+* Proficient in SQL
 * Learning Rust
-* Learning SQL
 * Learning Kotlin
 * Learning GO
 * Proficient in JavaScript
