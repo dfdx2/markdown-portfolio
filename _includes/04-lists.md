@@ -4,7 +4,7 @@ Some of the languages I use are:
 * Proficient in Python
 * Proficient in JavaScript
 * Proficient in HTML
-* Proficient CSS
+* Proficient in CSS
 * Learning Rust
 * Learning Kotlin
 * Learning GO
