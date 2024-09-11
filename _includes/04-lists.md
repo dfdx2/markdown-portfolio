@@ -1,4 +1,4 @@
-Some of the languages I use are:
+Some of the languages I work with are:
 * Proficient in Java
 * Proficient in SQL
 * Proficient in Python
