@@ -5,7 +5,7 @@ Some of the languages I work with are:
 * Proficient in JavaScript
 * Proficient in HTML
 * Proficient in CSS
-* Learning Rust
+* Learning Spring
 * Learning Kotlin
 * Learning GO
 * Learning COBOL
