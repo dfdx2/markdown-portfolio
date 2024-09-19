@@ -1,10 +1,5 @@
 Some of the languages I work with are:
-* Proficient in Java
-* Proficient in SQL
-* Proficient in Python
-* Proficient in JavaScript
-* Proficient in HTML
-* Proficient in CSS
+* Proficient in Java, SQL, Python, Javascript, HTML, CSS
 * Learning Spring
 * Learning Kotlin
 * Learning GO
