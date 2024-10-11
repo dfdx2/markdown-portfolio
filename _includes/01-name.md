@@ -1,1 +1,1 @@
-# DFDx2 Project Page #
+# DFDx2 Projects Page #
