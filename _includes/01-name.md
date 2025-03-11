@@ -1,2 +1,2 @@
 # Projects Page #
-## This space will list any projects I am working on ##
+## This space will list projects I am working on ##
