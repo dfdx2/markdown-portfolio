@@ -1,2 +1,2 @@
-Some of the languages I am familiar with are:
+The languages I am proficient in:
 * Java, SQL, Python, Javascript, HTML, CSS
